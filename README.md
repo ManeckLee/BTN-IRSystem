@@ -1,5 +1,5 @@
 # BTN-IRSystem
-This repository saves the sorce code of BTN-IRSystem, which is one of the CNSoftCup's subjects.
+This repository saves the source code of BTN-IRSystem, which is one of the CNSoftCup's subjects.
 
 ## Run Environment
 
